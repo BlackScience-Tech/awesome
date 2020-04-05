@@ -17,3 +17,11 @@
 
 ## 作物模拟
 - [Python Crop Simulation Environment - PCSE](https://pcse.readthedocs.io/): 该框架被开发以作为瓦赫宁根大学开发的作物模拟模型的实现
+
+## 入门课程
+
+### 遥感应用分析原理与方法
+
+1. [麦克斯韦方程组是什么？电场和磁场有什么重要联系？李永乐老师讲最美物理公式](https://www.bilibili.com/video/BV1gb411E7C8?from=search&seid=1724514699925153276)
+
+2. [光是波还是粒子？双缝干涉实验和泊松亮斑都是怎么回事？李永乐老师讲波粒战争](https://www.bilibili.com/video/BV1eb411m7WP/?spm_id_from=trigger_reload)
