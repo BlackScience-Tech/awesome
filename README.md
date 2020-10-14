@@ -50,3 +50,52 @@ Cotton2K is a cotton simulation model specially adapted for irrigated cotton pro
 
 ### Crop Simulation
 - [Python Crop Simulation Environment - PCSE](https://pcse.readthedocs.io/): A framework developed for implementing crop simulation models developed in Wageningen.
+
+
+|Name|Version|Last Commit|Stars|Downloads|Lines of Code|License|Coverage|Contributors
+|----|-------|-----------|-----|---------|-------------|-------|--------|------------
+[thermo][01]|![][01v]![][01vc]|![][01a]|![][01s]|![][01d]![][01dc]|![][01z]|![][01l]|![][01c]|![][01t]
+[MetPy][02]|![][02v]![][02vc]|![][02a]|![][02s]|![][02d]![][02dc]|![][02z]|![][02l]|![][02c]|![][02t]
+[Cotton2K][03]||![][03a]|![][03s]||![][03z]|![][03l]|![][03c]|![][03t]
+[PCSE][04]|![][04v]|![][04a]|![][04s]|![][04d]|![][04z]|![][04l]|![][04c]|![][04t]
+
+[01]: https://github.com/CalebBell/thermo
+[01v]: https://img.shields.io/pypi/v/thermo
+[01vc]: https://img.shields.io/conda/vn/conda-forge/thermo
+[01a]: https://img.shields.io/github/last-commit/CalebBell/thermo
+[01s]: https://img.shields.io/github/stars/CalebBell/thermo
+[01d]: https://img.shields.io/pypi/dd/thermo
+[01dc]: https://img.shields.io/conda/dn/conda-forge/thermo
+[01z]: https://img.shields.io/tokei/lines/github/CalebBell/thermo
+[01l]: https://img.shields.io/github/license/CalebBell/thermo
+[01c]: https://img.shields.io/coveralls/github/CalebBell/thermo
+[01t]: https://img.shields.io/github/contributors/CalebBell/thermo
+[02]: https://github.com/Unidata/MetPy
+[02v]: https://img.shields.io/pypi/v/MetPy
+[02vc]: https://img.shields.io/conda/vn/conda-forge/MetPy
+[02a]: https://img.shields.io/github/last-commit/Unidata/MetPy
+[02s]: https://img.shields.io/github/stars/Unidata/MetPy
+[02d]: https://img.shields.io/pypi/dd/MetPy
+[02dc]: https://img.shields.io/conda/dn/conda-forge/MetPy
+[02z]: https://img.shields.io/tokei/lines/github/Unidata/MetPy
+[02l]: https://img.shields.io/github/license/Unidata/MetPy
+[02c]: https://img.shields.io/codecov/c/github/Unidata/MetPy
+[02t]: https://img.shields.io/github/contributors/Unidata/MetPy
+[03]: https://github.com/tcztzy/cotton2k
+[03a]: https://img.shields.io/github/last-commit/tcztzy/cotton2k
+[03s]: https://img.shields.io/github/stars/tcztzy/cotton2k
+[03c]: https://img.shields.io/codecov/github/tcztzy/cotton2k
+[03z]: https://img.shields.io/tokei/lines/github/tcztzy/cotton2k
+[03l]: https://img.shields.io/github/license/tcztzy/cotton2k
+[03c]: https://img.shields.io/codecov/c/github/tcztzy/cotton2k
+[03t]: https://img.shields.io/github/contributors/tcztzy/cotton2k
+
+[04]: https://github.com/ajwdewit/pcse
+[04v]: https://img.shields.io/pypi/v/pcse
+[04a]: https://img.shields.io/github/last-commit/ajwdewit/pcse
+[04s]: https://img.shields.io/github/stars/ajwdewit/pcse
+[04d]: https://img.shields.io/pypi/dd/pcse
+[04z]: https://img.shields.io/tokei/lines/github/ajwdewit/pcse
+[04l]: https://img.shields.io/pypi/l/pcse
+[04c]: https://img.shields.io/codecov/c/github/ajwdewit/pcse
+[04t]: https://img.shields.io/github/contributors/ajwdewit/pcse
