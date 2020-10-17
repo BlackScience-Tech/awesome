@@ -31,6 +31,10 @@ See also [中文](README-zh_CN.md)
 ### Cotton2k
 Cotton2K is a cotton simulation model specially adapted for irrigated cotton production in arid regions. It was written by [Avishalom Marani](https://plantscience.agri.huji.ac.il/avishalom-marani) 
 
+| Name     |      Author      |  Language   | Latest Version | Latest Update |
+|:---------|:----------------:|:-----------:|:--------------:|:-------------:|
+| Cotton2K | Avishalom Marani | C++/Fortran |      4.0       |     2004      |
+
 ## Packages
 
 ### Input/Output
@@ -52,12 +56,13 @@ Cotton2K is a cotton simulation model specially adapted for irrigated cotton pro
 - [Python Crop Simulation Environment - PCSE](https://pcse.readthedocs.io/): A framework developed for implementing crop simulation models developed in Wageningen.
 
 
-|Name|Version|Last Commit|Stars|Downloads|Lines of Code|License|Coverage|Contributors
-|----|-------|-----------|-----|---------|-------------|-------|--------|------------
-[thermo][01]|![][01v]![][01vc]|![][01a]|![][01s]|![][01d]![][01dc]|![][01z]|![][01l]|![][01c]|![][01t]
-[MetPy][02]|![][02v]![][02vc]|![][02a]|![][02s]|![][02d]![][02dc]|![][02z]|![][02l]|![][02c]|![][02t]
-[Cotton2K][03]||![][03a]|![][03s]||![][03z]|![][03l]|![][03c]|![][03t]
-[PCSE][04]|![][04v]|![][04a]|![][04s]|![][04d]|![][04z]|![][04l]|![][04c]|![][04t]
+|     Name     |      Version    |Last Commit| Stars  |    Downloads    |Lines of Code|License |Coverage|Contributors|
+|:------------:|:---------------:|:---------:|:------:|:---------------:|:-----------:|:------:|:------:|-----------:|
+|[thermo][01]  |![][01v]![][01vc]|![][01a]   |![][01s]|![][01d]![][01dc]|![][01z]     |![][01l]|![][01c]|![][01t]    |
+|[MetPy][02]   |![][02v]![][02vc]|![][02a]   |![][02s]|![][02d]![][02dc]|![][02z]     |![][02l]|![][02c]|![][02t]    |
+|[Cotton2K][03]|                 |![][03a]   |![][03s]|                 |![][03z]     |![][03l]|![][03c]|![][03t]    |
+|[PCSE][04]    |![][04v]         |![][04a]   |![][04s]|![][04d]         |![][04z]     |![][04l]|        |![][04t]    |
+|[AstroPy][05] |![][05v]![][05vc]|![][05a]   |![][05s]|![][05d]![][05dc]|![][05z]     |![][05l]|![][05c]|![][05t]
 
 [01]: https://github.com/CalebBell/thermo
 [01v]: https://img.shields.io/pypi/v/thermo
@@ -97,5 +102,16 @@ Cotton2K is a cotton simulation model specially adapted for irrigated cotton pro
 [04d]: https://img.shields.io/pypi/dd/pcse
 [04z]: https://img.shields.io/tokei/lines/github/ajwdewit/pcse
 [04l]: https://img.shields.io/pypi/l/pcse
-[04c]: https://img.shields.io/codecov/c/github/ajwdewit/pcse
 [04t]: https://img.shields.io/github/contributors/ajwdewit/pcse
+
+[05]: https://www.astropy.org/
+[05v]: https://img.shields.io/pypi/v/astropy
+[05vc]: https://img.shields.io/conda/v/main/astropy
+[05a]: https://img.shields.io/github/last-commit/astropy/astropy
+[05s]: https://img.shields.io/github/stars/astropy/astropy
+[05d]: https://img.shields.io/pypi/dd/astropy
+[05dc]: https://img.shields.io/conda/dn/main/astropy
+[05z]: https://img.shields.io/tokei/lines/github/astropy/astropy
+[05l]: https://img.shields.io/github/license/astropy/astropy
+[05c]: https://img.shields.io/codecov/c/github/astropy/astropy
+[05t]: https://img.shields.io/github/contributors/astropy/astropy
