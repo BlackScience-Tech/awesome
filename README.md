@@ -89,7 +89,7 @@ Cotton2K is a cotton simulation model specially adapted for irrigated cotton pro
 [03]: https://github.com/tcztzy/cotton2k
 [03a]: https://img.shields.io/github/last-commit/tcztzy/cotton2k
 [03s]: https://img.shields.io/github/stars/tcztzy/cotton2k
-[03c]: https://img.shields.io/codecov/github/tcztzy/cotton2k
+[03c]: https://img.shields.io/codecov/c/github/tcztzy/cotton2k
 [03z]: https://img.shields.io/tokei/lines/github/tcztzy/cotton2k
 [03l]: https://img.shields.io/github/license/tcztzy/cotton2k
 [03c]: https://img.shields.io/codecov/c/github/tcztzy/cotton2k
