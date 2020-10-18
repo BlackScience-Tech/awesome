@@ -84,14 +84,14 @@ Crop Simulation
 
 - |PCSE|_ - PCSE: A framework developed for implementing crop simulation models developed in Wageningen.
 
-========= ========================================= ===================== =============== =================== ======================= ================= ================== ======================
-Name      Version                                   Last Commit           Stars           Downloads           Lines of Code           License           Coverage           Contributors
-========= ========================================= ===================== =============== =================== ======================= ================= ================== ======================
-thermo_   |thermo version| |thermo conda version|   |thermo last commit|  |thermo stars|  |thermo downloads|  |thermo lines of code|  |thermo license|  |thermo coverage|  |thermo contributors|
-MetPy_    |MetPy version| |MetPy conda version|     |MetPy last commit|   |MetPy stars|   |MetPy downloads|   |MetPy lines of code|   |MetPy license|   |MetPy coverage|   |MetPy contributors|
-PCSE_     |PCSE version|                            |PCSE last commit|    |PCSE stars|    |PCSE downloads|    |PCSE lines of code|    |PCSE license|                       |PCSE contributors|
-AstroPy_  |AstroPy version| |AstroPy conda version| |AstroPy last commit| |AstroPy stars| |AstroPy downloads| |AstroPy lines of code| |AstroPy license| |AstroPy coverage| |AstroPy contributors|
-========= ========================================= ===================== =============== =================== ======================= ================= ================== ======================
+========= =========================================== ====================== ================ =================== ======================= ================= ================== ======================
+Name      Version                                     Last Commit            Stars            Downloads           Lines of Code           License           Coverage           Contributors
+========= =========================================== ====================== ================ =================== ======================= ================= ================== ======================
+thermo_   |thermo version|_ |thermo conda version|_   |thermo last commit|_  |thermo stars|   |thermo downloads|  |thermo lines of code|  |thermo license|  |thermo coverage|  |thermo contributors|
+MetPy_    |MetPy version|_ |MetPy conda version|_     |MetPy last commit|_   |MetPy stars|    |MetPy downloads|   |MetPy lines of code|   |MetPy license|   |MetPy coverage|   |MetPy contributors|
+PCSE_     |PCSE version|_                             |PCSE last commit|_    |PCSE stars|     |PCSE downloads|    |PCSE lines of code|    |PCSE license|                       |PCSE contributors|
+AstroPy_  |AstroPy version|_ |AstroPy conda version|_ |AstroPy last commit|_ |AstroPy stars|  |AstroPy downloads| |AstroPy lines of code| |AstroPy license| |AstroPy coverage| |AstroPy contributors|
+========= =========================================== ====================== ================ =================== ======================= ================= ================== ======================
 
 .. |awesome|                   image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 .. |FROM-GLC|                  image:: http://data.ess.tsinghua.edu.cn/title.png
@@ -99,42 +99,53 @@ AstroPy_  |AstroPy version| |AstroPy conda version| |AstroPy last commit| |Astro
 .. _GDAL:                              https://gdal.org
 .. |rio|                     replace:: Rasterio
 .. _rio:                               https://rasterio.readthedocs.io/
-.. _thermo:                            https://github/CalebBell/thermo
+.. _thermo:                            https://thermo.readthedocs.io/
 .. |thermo version|            image:: https://img.shields.io/pypi/v/thermo
-.. |thermo conda version|      image:: https://img.shields.io/conda/v/conda-forge/thermo
-.. |thermo last commit|        image:: https://img.shields.io/github/last-commit/CalebBell/thermo
-.. |thermo stars|              image:: https://img.shields.io/github/stars/CalebBell/thermo
-.. |thermo downloads|          image:: https://img.shields.io/pypi/dm/thermo
-.. |thermo lines of code|      image:: https://img.shields.io/tokei/lines/github/CalebBell/thermo
-.. |thermo license|            image:: https://img.shields.io/pypi/l/thermo
-.. |thermo coverage|           image:: https://img.shields.io/coveralls/github/CalebBell/thermo
-.. |thermo contributors|       image:: https://img.shields.io/github/contributors/CalebBell/thermo
+.. _`thermo version`:                  https://pypi.org/project/thermo
+.. |thermo conda version|      image:: https://img.shields.io/conda/vn/conda-forge/thermo
+.. _`thermo conda version`:            https://anaconda.org/conda-forge/thermo
+.. |thermo last commit|        image:: https://img.shields.io/github/last-commit/CalebBell/thermo?label
+.. _`thermo last commit`:              https://github.com/CalebBell/thermo
+.. |thermo stars|              image:: https://img.shields.io/github/stars/CalebBell/thermo?label
+.. |thermo downloads|          image:: https://img.shields.io/pypi/dm/thermo?label=pypi
+.. |thermo lines of code|      image:: https://img.shields.io/tokei/lines/github/CalebBell/thermo?label
+.. |thermo license|            image:: https://img.shields.io/pypi/l/thermo?label
+.. |thermo coverage|           image:: https://img.shields.io/coveralls/github/CalebBell/thermo?label
+.. |thermo contributors|       image:: https://img.shields.io/github/contributors/CalebBell/thermo?label
 .. _MetPy:                             https://github.com/Unidata/MetPy
 .. |MetPy version|             image:: https://img.shields.io/pypi/v/MetPy
-.. |MetPy conda version|       image:: https://img.shields.io/conda/v/conda-forge/MetPy
-.. |MetPy last commit|         image:: https://img.shields.io/github/last-commit/Unidata/MetPy
-.. |MetPy stars|               image:: https://img.shields.io/github/stars/Unidata/MetPy
-.. |MetPy downloads|           image:: https://img.shields.io/pypi/dm/metpy
-.. |MetPy lines of code|       image:: https://img.shields.io/tokei/lines/github/Unidata/MetPy
-.. |MetPy license|             image:: https://img.shields.io/pypi/l/metpy
-.. |MetPy coverage|            image:: https://img.shields.io/codecov/c/github/Unidata/MetPy
-.. |MetPy contributors|        image:: https://img.shields.io/github/contributors/Unidata/MetPy
+.. _`MetPy version`:                   https://pypi.org/project/MetPy
+.. |MetPy conda version|       image:: https://img.shields.io/conda/vn/conda-forge/MetPy
+.. _`MetPy conda version`:             https://anaconda.org/conda-forge/metpy
+.. |MetPy last commit|         image:: https://img.shields.io/github/last-commit/Unidata/MetPy?label
+.. _`MetPy last commit`:               https://github.com/Unidata/MetPy
+.. |MetPy stars|               image:: https://img.shields.io/github/stars/Unidata/MetPy?label
+.. |MetPy downloads|           image:: https://img.shields.io/pypi/dm/metpy?label=pypi
+.. |MetPy lines of code|       image:: https://img.shields.io/tokei/lines/github/Unidata/MetPy?label
+.. |MetPy license|             image:: https://img.shields.io/pypi/l/metpy?label
+.. |MetPy coverage|            image:: https://img.shields.io/codecov/c/github/Unidata/MetPy?label
+.. |MetPy contributors|        image:: https://img.shields.io/github/contributors/Unidata/MetPy?label
 .. |PCSE|                    replace:: Python Crop Simulation Environment
 .. _PCSE:                              https://pcse.readthedocs.io
-.. |PCSE version|              image:: https://img.shields.io/pypi/v/pcse
-.. |PCSE last commit|          image:: https://img.shields.io/github/last-commit/ajwdewit/pcse
-.. |PCSE stars|                image:: https://img.shields.io/github/stars/ajwdewit/pcse
-.. |PCSE downloads|            image:: https://img.shields.io/pypi/dm/pcse
-.. |PCSE lines of code|        image:: https://img.shields.io/tokei/lines/github/ajwdewit/pcse
-.. |PCSE license|              image:: https://img.shields.io/pypi/l/pcse
-.. |PCSE contributors|         image:: https://img.shields.io/github/contributors/ajwdewit/pcse
+.. |PCSE version|              image:: https://img.shields.io/pypi/v/PCSE
+.. _`PCSE version`:                    https://pypi.org/project/PCSE
+.. |PCSE last commit|          image:: https://img.shields.io/github/last-commit/ajwdewit/pcse?label
+.. _`PCSE last commit`:                https://github.com/ajwdewit/pcse
+.. |PCSE stars|                image:: https://img.shields.io/github/stars/ajwdewit/pcse?label
+.. |PCSE downloads|            image:: https://img.shields.io/pypi/dm/pcse?label=pypi
+.. |PCSE lines of code|        image:: https://img.shields.io/tokei/lines/github/ajwdewit/pcse?label
+.. |PCSE license|              image:: https://img.shields.io/pypi/l/pcse?label
+.. |PCSE contributors|         image:: https://img.shields.io/github/contributors/ajwdewit/pcse?label
 .. _AstroPy:                           https://www.astropy.org
 .. |AstroPy version|           image:: https://img.shields.io/pypi/v/astropy
-.. |AstroPy conda version|     image:: https://img.shields.io/conda/v/main/astropy
-.. |AstroPy last commit|       image:: https://img.shields.io/github/last-commit/astropy/astropy
-.. |AstroPy stars|             image:: https://img.shields.io/github/stars/astropy/astropy
-.. |AstroPy downloads|         image:: https://img.shields.io/pypi/dm/astropy
-.. |AstroPy lines of code|     image:: https://img.shields.io/tokei/lines/github/astropy/astropy
-.. |AstroPy license|           image:: https://img.shields.io/pypi/l/astropy
-.. |AstroPy coverage|          image:: https://img.shields.io/codecov/c/github/astropy/astropy
-.. |AstroPy contributors|      image:: https://img.shields.io/github/contributors/astropy/astropy
+.. _`AstroPy version`:                 https://pypi.org/project/astropy
+.. |AstroPy conda version|     image:: https://img.shields.io/conda/v/main/astropy?label=conda
+.. _`AstroPy conda version`:           https://anaconda.org/anaconda/astropy
+.. |AstroPy last commit|       image:: https://img.shields.io/github/last-commit/astropy/astropy?label
+.. _`AstroPy last commit`:             https://github.com/astropy/astropy
+.. |AstroPy stars|             image:: https://img.shields.io/github/stars/astropy/astropy?label
+.. |AstroPy downloads|         image:: https://img.shields.io/pypi/dm/astropy?label=pypi
+.. |AstroPy lines of code|     image:: https://img.shields.io/tokei/lines/github/astropy/astropy?label
+.. |AstroPy license|           image:: https://img.shields.io/pypi/l/astropy?label
+.. |AstroPy coverage|          image:: https://img.shields.io/codecov/c/github/astropy/astropy?label
+.. |AstroPy contributors|      image:: https://img.shields.io/github/contributors/astropy/astropy?label
